@@ -1,5 +1,5 @@
 ﻿namespace InventarioPOO {
-    partial class Inventario {
+    partial class VistaProductos {
         /// <summary>
         /// Required designer variable.
         /// </summary>
@@ -25,13 +25,13 @@
         private void InitializeComponent() {
             this.SuspendLayout();
             // 
-            // Inventario
+            // VistaProductos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1045, 722);
-            this.Name = "Inventario";
-            this.Text = "Form1";
+            this.Name = "VistaProductos";
+            this.Text = "Inventario";
             this.ResumeLayout(false);
 
         }
