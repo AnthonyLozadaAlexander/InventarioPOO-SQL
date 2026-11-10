@@ -9,8 +9,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace InventarioPOO {
-    public partial class VistaProductos : Form {
-        public VistaProductos() {
+    public partial class Inventario : Form {
+        public Inventario() {
             InitializeComponent();
         }
     }

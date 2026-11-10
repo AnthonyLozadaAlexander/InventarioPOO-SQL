@@ -13,7 +13,7 @@ namespace InventarioPOO {
         static void Main() {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new VistaProductos());
+            Application.Run(new Inventario());
         }
     }
 }
